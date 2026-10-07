@@ -1,0 +1,6 @@
+{
+  "name": "April Xperience | April Realty Trust",
+  "description": "Luxury residences, curated short-let stays, and premier real estate advisory in Lagos, Nigeria. Experience the thrills of life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
